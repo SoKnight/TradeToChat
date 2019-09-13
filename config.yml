@@ -1,0 +1,20 @@
+#
+#  SoKnight's TradeToChat config file v1.0
+#  Localization: ru_RU
+#
+General:
+  # Формат сообщения в чате остальным игрокам
+  TradeFormat: "&f[T] &6%player% &eопубликовал %item%&e. Наведите, чтобы посмотреть."
+  # Стандартный цвет имени предмета вместо %item%
+  DefaultNameColor: 'GOLD'
+  # Отправлять ли сообщение о трейде отправителю команды
+  SendToYourself: true
+  # Кулдаун использования команды (сек.)
+  Cooldown: 30
+Messages:
+  NoPermissions: "&cНедостаточно прав."
+  OnlyForPlayers: "&cКоманда доступна только для игрока."
+  Cooldown: "&cПодождите ещё %time% сек. перед тем, как повторить команду."
+  MainHandEmpty: "&cДержите предмет, который хотите опубликовать, в своей руке."
+  PublicSuccess: "&eПредмет '%item%' &eуспешно опубликован."
+  SuccessReloaded: "&6TradeToChat &eперезагружен."
