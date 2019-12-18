@@ -1,9 +1,9 @@
 package ru.soknight.ttc.utils;
 
-import org.bukkit.craftbukkit.v1_14_R1.inventory.CraftItemStack;
+import org.bukkit.craftbukkit.v1_15_R1.inventory.CraftItemStack;
 
-import net.minecraft.server.v1_14_R1.ItemStack;
-import net.minecraft.server.v1_14_R1.NBTTagCompound;
+import net.minecraft.server.v1_15_R1.ItemStack;
+import net.minecraft.server.v1_15_R1.NBTTagCompound;
 
 public class JsonUtils {
 
